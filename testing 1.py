@@ -7,6 +7,4 @@ This is a temporary script file.
 
 print("hello, Claudio")
 
-x = 10
-
-print (x*2)
+print ("i love chicken")
